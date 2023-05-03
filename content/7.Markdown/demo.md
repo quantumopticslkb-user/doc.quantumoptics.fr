@@ -1,12 +1,6 @@
 ---
 title: Components
 description: ''
-position: 10
-category: Doc tutorial
-items:
-  - Item1
-  - Item2
-  - Item3
 ---
 
 # Markdown syntax
