@@ -4,27 +4,23 @@ Starter template for [Docus](https://docus.dev).
 
 ## Clone
 
-Clone the repository (using `nuxi`):
-
-```bash
-npx nuxi init -t themes/docus
-```
+Clone the repository 
 
 ## Setup
 
 Install dependencies:
 
 ```bash
-yarn install
+npm install
 ```
 
 ## Development
 
 ```bash
-yarn dev
+npm run dev
 ```
 
-## Edge Side Rendering
+<!-- ## Edge Side Rendering
 
 Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
 
@@ -54,4 +50,4 @@ yarn preview
 
 ---
 
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
+For a detailed explanation of how things work, check out [Docus](https://docus.dev). -->
