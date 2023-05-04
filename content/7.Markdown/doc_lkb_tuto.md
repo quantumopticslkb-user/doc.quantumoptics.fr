@@ -51,6 +51,17 @@ Write the content using markdown. If you want to have a graphical overview of wh
 
 </code-block>
 
+> For macOS users, if **apt** doesn't work, you can install **homebrew** and run instead: 
+
+<code-block label="Bash" active>
+
+  ```bash
+  brew install nodejs 
+  brew install npm
+  ```
+
+</code-block>
+
 After having installed `npm` and `nodejs`, install all required packages in the `package.json` file at the root :
 
 <code-block label="Bash" active>
