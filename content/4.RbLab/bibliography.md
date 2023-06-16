@@ -94,6 +94,10 @@ Hamamatsu : You need to go through the DCAM API. Here is a [repo](https://github
 
 Point Grey : You need to install the [Spinnaker SDK](https://www.flir.eu/products/spinnaker-sdk/). Once in the FLIR dropbox, you need to also download the relevant `PySpin` package for your OS and Python version. You can then finally `pip install EasyPySpin` a super convenient little wrapper that allows to use FLIR cameras like any OpenCV capture device.
 
+Thorlab : Thorcam software
+
+Basler : use the Pylon library on python
+
 ##### Rigol Instruments
 
 For all Rigol Instruments (e.g AFG, oscilloscopes, spectrum analyzers etc...), we developped a [library](https://github.com/Quantum-Optics-LKB/RigolInterface) that uses PyVisa to communicate with these instruments.\
