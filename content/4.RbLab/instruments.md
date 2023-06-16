@@ -14,15 +14,15 @@
 
 | Brand | Model   | Description               | Link to the documentation |
 | ------- | --------- | --------------------------- | --------------------------- |
-| Rigol | DSA1020 | Spectrum analyzer 2GHz    |                           |
-| Rigol | DSA705  | Spectrum analyzer 500 MHz |                           |
+| Rigol | DSA1020 | Spectrum analyzer 2GHz    | https://github.com/Quantum-Optics-LKB/ScopeInterface |
+| Rigol | DSA705  | Spectrum analyzer 500 MHz | https://github.com/Quantum-Optics-LKB/ScopeInterface |
 
 ## Function/Arbitrary waveform generator
 
 
 | Brand     | Model         | Description                           | Link to the documentation |
 | ----------- | --------------- | --------------------------------------- | --------------------------- |
-| Rigol     | DG4202/DG4102 | 2 channels Arbitrary Waveform Genator |                           |
+| Rigol     | DG4202/DG4102 | 2 channels Arbitrary Waveform Genator | https://github.com/Quantum-Optics-LKB/ScopeInterface |
 | Tektronix | AFG 3022B     | 2 channels AFG                        |                           |
 |           |               |                                       |                           |
 
