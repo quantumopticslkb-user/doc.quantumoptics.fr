@@ -48,7 +48,7 @@
 
 | Brand          | Model                 | Description | Link to the documentation |
 | ---------------- | ----------------------- | ------------- | --------------------------- |
-| Basler         | aca2040 - 90um NIR    |             |                           |
+| Basler         | aca2040 - 90um NIR    |             |   https://github.com/basler/pypylon                        |
 | FLIR/PointGrey | GS3-U3-41C6NIR-C      |             |                           |
 | Allied vision  | Alvium 18000 U - 507m |             |                           |
 | PCO            | Panda                 |             |                           |
