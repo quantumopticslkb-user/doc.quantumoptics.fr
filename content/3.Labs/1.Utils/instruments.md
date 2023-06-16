@@ -1,4 +1,8 @@
-# A list of the instruments avaible and their documentions
+---
+title: Instruments
+description: 'A list of the instruments avaible and their documentations'
+---
+# A list of the instruments available and their documentations
 
 ## Oscilloscopes
 
