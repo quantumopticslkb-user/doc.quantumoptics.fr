@@ -9,7 +9,7 @@ To have a better understanding of propagating photon fluids in hot rubidium vapo
 
 ## Bibliography
 
-A page to find relevant papers to understand what you do. All of the references (unless if otherwise stated) are available on [**Zotero**](/starting-package/Tools#zotero).
+A page to find relevant papers to understand what you do. All of the references (unless if otherwise stated) are available on [**Zotero**](/starting-package/tools#zotero).
 
 ### Bogoliubov theory
 
