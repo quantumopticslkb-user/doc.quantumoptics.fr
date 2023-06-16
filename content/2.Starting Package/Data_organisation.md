@@ -7,7 +7,8 @@ category: Tutorials
 ## Introduction
 
 The team has access to a server, LEON, allowing us to store all our data as well as any file. This is probably the most important tool of the team.  
-First you need to follow the tutorial to have acces to the LKB network: <NuxtLink to="/Starting Package/Tools"> Usefool tools </NuxtLink>.  
+First you need to follow the tutorial to have acces to the LKB network: 
+[Usefool tools](/starting-package/Tools).  
 It is very important to master it in order to facilitate the transfer of knowledge and to work efficiently.  
 The real challenge is: how to organise our data?
 
