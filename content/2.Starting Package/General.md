@@ -4,7 +4,7 @@ description: 'A guide to all administrative stuff'
 category: Tutorials
 ---
 
-### Go on vacation:
+### Go on vacation
 
 **1**. Agreement from Alberto Bramati/ Quentin Glorieux
 
@@ -15,7 +15,7 @@ category: Tutorials
 
 **3**. CNRS member: add the days off on https://agate.cnrs.fr/
 
-### Telework:
+### Telework
 
 **1**. Agreement from Alberto Bramati/ Quentin Glorieux
 
