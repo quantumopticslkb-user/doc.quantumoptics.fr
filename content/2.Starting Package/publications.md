@@ -13,4 +13,4 @@ category: Tutorials
 
 ## Learn about open access publication
 
-You should read this <pdf-link src="Fiche_Publier à l'INP_2022_web.pdf" label="documentation on open access" > </pdf-link>
+You should read [this](https://www.inp.cnrs.fr/sites/institut_inp/files/download-file/Fiche_Publier%20%C3%A0%20l%27INP_2022_web_VF.pdf)
