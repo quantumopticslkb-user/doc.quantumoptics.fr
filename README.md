@@ -1,53 +1,55 @@
-# Docus Starter
+## Contents
 
-Starter template for [Docus](https://docus.dev).
+- [Contents](#contents)
+- [Starting package](#starting-package)
+	- [First administrative steps](#first-administrative-steps)
+	- [Useful tools](#useful-tools)
+	- [Computers and networks](#computers-and-netwprks)
+	- [Data organization](#data-organization)
+	- [Publications](#publications)
+- [Admnistrative tools](administrative-tools) 
+	- [Orders](#orders)
+	- [Missions](#missions)
+	- [Vacations](#vacations)
+- [Github index](#github_index)
+- [Instruments and how to control them](#instruments_and_how_to_control_them) 
+- [Simulations tools](#simulatons_tools)
+- [Miscellaneous useful pieces of code](#miscellaneous_useful_pieces_of codes)
+- [Labs](#labs) 
+	- [Rubidium](#rubidium)
+	- [Polaritons](#polaritons)
+	- [Nano](#nano)
+- [Templates](#templates)
+- [Write documentation tutorial](#write_documentation_tutorial) 
 
-## Clone
+	
+## Starting package
+### First administrative steps
+### Useful tools
+### Computers and networks
+### Data organization
+### Publications
 
-Clone the repository 
+## Administrative tools
+### Orders
+### Missions
+### Vacations
 
-## Setup
+## Github index
 
-Install dependencies:
+## Instruments and how to control them
 
-```bash
-npm install
-```
+## Simulations tools
 
-## Development
+## Miscellaneous pieces of codes
 
-```bash
-npm run dev
-```
+## Labs
+### Rubidium
+### Polaritons
+### Nano
 
-<!-- ## Edge Side Rendering
+## Templates
 
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
+## Write documentation tutorial
 
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
 
-```bash
-yarn build
-```
-
-## Static Generation
-
-Use the `generate` command to build your application.
-
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
-
-```bash
-yarn generate
-```
-
-## Preview build
-
-You might want to preview the result of your build locally, to do so, run the following command:
-
-```bash
-yarn preview
-```
-
----
-
-For a detailed explanation of how things work, check out [Docus](https://docus.dev). -->
