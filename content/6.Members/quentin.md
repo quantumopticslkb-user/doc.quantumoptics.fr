@@ -9,5 +9,3 @@ description: "Quentin's Homepage"
 My name is Quentin
 ## Information
 quentin.glorieux@lkb.upmc.fr
-### Latex
-$$ i \hbar \omega $$
