@@ -21,37 +21,9 @@ The strength of the photon-photon interaction ralated to the third-order suscept
 ### Temperature measurement
 Temoperature is a key parameter controls not only the atoms velocity,  the filling and transit rates but transport length scales and the atomic density. Our basic idea is to get the transmission spectrum of a low power beam to pass through the vapor and then fit with the saturated absorption spectrum.
 ### Atomic structure
-#### Fine structure − LS coupling
-The structure of the rubidium D-line arises from the coupling between the angular
-orbital momentum L of the valence electron and its spin angular momentum S. The total
-electron angular momentum J is then defined by: $J = L + S$; the associated quantum
-number J lies in the range $|L − S|<J<L + S$.
-```markdown
-|     Rb       |   L   |  S  |    J     |
-| -------------|-------|-----|----------|
-| ground state |   0   | 1/2 |    1/2   |
-| excited state|   1   | 1/2 | 1/2, 3/2 |
-```
-#### Hyperfine structure − IJ coupling
-We can go one step further by introducing the atomic hyperfine structure, which arises
-from the coupling between the total electron angular momentum, J, and the nuclear spin
-angular momentum, I. As before, the quantum number F, associated to the atomic angular
-momentum $F = J+I $, lies in between $|J −I| and J +I$.
-```markdown
-|     Rb87     |    I    |     J    |       F     |
-| -------------|---------|----------|-------------|
-| ground state |   3/2   |    1/2   |     1, 2    |    
-|      D1      |   3/2   |    1/2   |     1, 2    | 
-|      D2      |   3/2   |    3/2   |  0, 1, 2, 3 |
-```
-```markdown
-|     Rb85     |    I    |     J    |       F     |
-| -------------|---------|----------|-------------|
-| ground state |   5/2   |    1/2   |     2, 3    |    
-|      D1      |   5/2   |    1/2   |     2, 3    | 
-|      D2      |   5/2   |    3/2   |  1, 2, 3, 4 |
-```
-I suggest you read [Rubidium 87 D Line Data](https://steck.us/alkalidata/rubidium87numbers.1.6.pdf).
+
+Read [Rubidium 87 D Line Data](https://steck.us/alkalidata/rubidium87numbers.1.6.pdf).
+
 ## General spirit of the experiments
 
 The idea you always need to keep in mind is that you are doing a **science experiment**. You need to be able to **control everything that you do**, and **know at every moment what are the relevant parameters** of your experiment. In that sense, we strongly suggest that all your experiment be controlled through a Python code that is on your computer (and of course kept up to date on the team's [GitHub](StartingPackage/Tools#github)). This will allow you to reproduce easily your results and encourage you to store your data systematically in an orderly fashion. The goal is very simple : anybody with your lab book should be able to replicate your setup. The easier this is to do, the stronger your results will be. Furthermore, this will help you to be much more systematical in your data acquisition (namely changing only one thing at a time).
