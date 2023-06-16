@@ -40,4 +40,26 @@ For your data that you want to keep only for yourself it is possible to use your
 
 ## Codes
 
-When you start an experiment, you will have to write a class encapsulating all of the routines that you have in your experiment (as can be explained [**here**](.././4.RbLab/bibliography#))
+When you start an experiment, you will have to write a class encapsulating all of the routines that you have in your experiment (as can be explained [**here**](.././4.RbLab/bibliography#) for example).
+
+You should create a [GitHub](1.Tools###GitHub) repository in the group's organization Quantum-Optics-LKB with your code.
+
+Obviously, while it might be challenging in the beginning to document the code extensively, you should try to keep it as humanly readable as possible.
+
+For this, you should follow [PEEP8](https://peps.python.org/pep-0008/) guidelines, and systematically type all your functions and add docstrings.
+Here is an example:
+
+```python
+def add_two_integers(a: int, b: int) -> int:
+  """Adds two integers
+    Args:
+      a (int): The first integer
+      b (int): The second integer
+    Returns:
+      int: The sum of the two numbers
+
+  """
+  return a+b
+```
+
+Obviously, this is an example in Python, and you will have to adapt it for the different languages. Furthermore, since Python has no static typing, this is merely to help the user (and in some cases the interpreter).
