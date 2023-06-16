@@ -1,5 +1,5 @@
 ---
-title: General
+title: Admin
 description: 'A guide to all administrative stuff'
 category: Tutorials
 ---
