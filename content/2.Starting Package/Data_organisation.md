@@ -27,7 +27,7 @@ The goal of this tree structure is to minimize the **span** of the tree.
 
 What do we mean by this ? 
 
-::image-lkb{target='StartingPackage/tools/data_tree.jpg' size=45 center} 
+::image-lkb{target='StartingPackage/tools/data_tree.png' size=45 center} 
 
 You will notice that if you reverse the tree and do the chronological ordering higher up in the tree, the span will grow exponentially with time, which will quickly become unwieldy.
 
