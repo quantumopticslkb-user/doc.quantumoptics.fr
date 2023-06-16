@@ -1,4 +1,9 @@
-# Useful templates:
+---
+title: Templates
+description: ''
+category: Tutorials
+---
+## Useful templates:
 
 
 | Type of work             | Link to the template                                                           |
