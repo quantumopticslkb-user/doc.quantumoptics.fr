@@ -1,4 +1,4 @@
-## A list of the instruments avaible and their documentions
+# A list of the instruments avaible and their documentions
 
 ## Oscilloscopes
 
