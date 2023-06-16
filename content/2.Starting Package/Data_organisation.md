@@ -8,7 +8,7 @@ category: Tutorials
 
 The team has access to a server, LEON, allowing us to store all our data as well as any file. This is probably the most important tool of the team.  
 First you need to follow the tutorial to have acces to the LKB network: 
-[Usefool tools](/starting-package/Tools).  
+[Usefool tools](/starting-package/tools).  
 It is very important to master it in order to facilitate the transfer of knowledge and to work efficiently.  
 The real challenge is: how to organise our data?
 
@@ -41,9 +41,9 @@ For your data that you want to keep only for yourself it is possible to use your
 
 ## Codes
 
-When you start an experiment, you will have to write a class encapsulating all of the routines that you have in your experiment (as can be explained [**here**](.././4.RbLab/bibliography#) for example).
+When you start an experiment, you will have to write a class encapsulating all of the routines that you have in your experiment (as can be explained [**here**](/RbLab/bibliography) for example).
 
-You should create a [GitHub](1.Tools###GitHub) repository in the group's organization Quantum-Optics-LKB with your code.
+You should create a [GitHub](/starting-package/tools#GitHub) repository in the group's organization Quantum-Optics-LKB with your code.
 
 Obviously, while it might be challenging in the beginning to document the code extensively, you should try to keep it as humanly readable as possible.
 
