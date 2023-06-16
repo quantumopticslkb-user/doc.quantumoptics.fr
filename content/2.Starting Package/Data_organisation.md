@@ -43,7 +43,7 @@ For your data that you want to keep only for yourself it is possible to use your
 
 When you start an experiment, you will have to write a class encapsulating all of the routines that you have in your experiment (as can be explained [**here**](/RbLab/bibliography) for example).
 
-You should create a [GitHub](/starting-package/tools#GitHub) repository in the group's organization Quantum-Optics-LKB with your code.
+You should create a [GitHub](/starting-package/tools#github) repository in the group's organization Quantum-Optics-LKB with your code.
 
 Obviously, while it might be challenging in the beginning to document the code extensively, you should try to keep it as humanly readable as possible.
 
