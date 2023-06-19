@@ -15,5 +15,8 @@
     "@nuxt/image": "^0.7.1",
     "eslint": "^8.35.0",
     "nuxt": "3.3.3"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.0.1"
   }
 }
