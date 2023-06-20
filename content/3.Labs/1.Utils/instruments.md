@@ -8,11 +8,11 @@ description: 'A list of the instruments avaible and their documentations'
 ## Oscilloscopes
 
 
-| Brand     | Model                     | Description                     | Link to the documentation                                              |
-| :---------- | --------------------------- | --------------------------------- | ------------------------------------------------------------------------ |
-| Rigol     | DS2102A                   | Digital oscilloscope 2 channels | [RigolInterface](https://github.com/Quantum-Optics-LKB/RigolInterface) |
-| Tektronix | TDS 2014C / TBS 1052B-edu | 4 channels oscilloscope         | Ruggero has interfaced them                                            |
-| Rigol     | MSO5104/DS7024            | 4 channels oscilloscope         | [RigolInterface](https://github.com/Quantum-Optics-LKB/RigolInterface) |
+| Brand     | Model                     | Description                     | Link to the official documentation | Link to group made implementation                                      | Link to group example |
+| :---------- | --------------------------- | --------------------------------- | ------------------------------------ | ------------------------------------------------------------------------ | ----------------------- |
+| Rigol     | DS2102A                   | Digital oscilloscope 2 channels |                                    | [RigolInterface](https://github.com/Quantum-Optics-LKB/RigolInterface) |                       |
+| Tektronix | TDS 2014C / TBS 1052B-edu | 4 channels oscilloscope         |                                    | Ruggero has interfaced them                                            |                       |
+| Rigol     | MSO5104/DS7024            | 4 channels oscilloscope         |                                    | [RigolInterface](https://github.com/Quantum-Optics-LKB/RigolInterface) |                       |
 
 ## Spectrum analyzer
 
@@ -34,19 +34,19 @@ description: 'A list of the instruments avaible and their documentations'
 ## Power supply
 
 
-| Brand | Model   | Description                                        | Link to the documentation                                                                          |
-| ------- | --------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Tenma | 72-2715 | Programmable current and voltage source            | [Power_Suply_RS232_Control](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control)<br /> |
-| Tenma | 72-2685 | Digital control DC power supply (not programmable) |                                                                                                    |
+| Brand | Model   | Description                                        | Link to the official documentation | Link to group made implementation                                                                  | Link to group example |
+| ------- | --------- | ---------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------- |
+| Tenma | 72-2715 | Programmable current and voltage source            |                                    | [Power_Suply_RS232_Control](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control)<br /> |                       |
+| Tenma | 72-2685 | Digital control DC power supply (not programmable) |                                    |                                                                                                    |                       |
 
 ## Motorized optomechanics
 
 
-| Brand     | Model                     | Description                | Link to the documentation                                                                                      |
-| ----------- | --------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Home made | Actuonix L16-100-150-12-P | Home made linear actuator  | [Arduino_linear_actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator)                       |
-| Thorlabs  | K10CR1/M                  | Motorized rotational mount | ⚠️ For windows only : Use[pylablib](https://pylablib.readthedocs.io/en/latest/devices/Thorlabs_kinesis.html) |
-| Thorlabs  | Z825B with KDC101         | 25 mm Motorized Actuator   | ⚠️ For windows only : Use[pylablib](https://pylablib.readthedocs.io/en/latest/devices/Thorlabs_kinesis.html) |
+| Brand     | Model                     | Description                | Link to the official documentation                                                                             | Link to group made implementation                                                        | Link to group example |
+| ----------- | --------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------- |
+| Home made | Actuonix L16-100-150-12-P | Home made linear actuator  |                                                                                                                | [Arduino_linear_actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator) |                       |
+| Thorlabs  | K10CR1/M                  | Motorized rotational mount | ⚠️ For windows only : Use[pylablib](https://pylablib.readthedocs.io/en/latest/devices/Thorlabs_kinesis.html) |                                                                                          |                       |
+| Thorlabs  | Z825B with KDC101         | 25 mm Motorized Actuator   | ⚠️ For windows only : Use[pylablib](https://pylablib.readthedocs.io/en/latest/devices/Thorlabs_kinesis.html) |                                                                                          |                       |
 
 ## Cameras
 
