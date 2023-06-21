@@ -2,7 +2,6 @@
 title: Instruments
 description: 'A list of the instruments avaible and their documentations'
 ---
-
 # A list of the instruments available and their documentations
 
 ## Oscilloscopes
@@ -17,19 +16,19 @@ description: 'A list of the instruments avaible and their documentations'
 ## Spectrum analyzer
 
 
-| Brand | Model   | Description               | Link to the documentation |
-| ------- | --------- | --------------------------- | --------------------------- |
-| Rigol | DSA1020 | Spectrum analyzer 2GHz    | https://github.com/Quantum-Optics-LKB/ScopeInterface |
-| Rigol | DSA705  | Spectrum analyzer 500 MHz | https://github.com/Quantum-Optics-LKB/ScopeInterface |
+| Brand | Model   | Description               | Link to the official documentation | Link to group made implementation                    | Link to group example |
+| ------- | --------- | --------------------------- | ------------------------------------ | ------------------------------------------------------ | ----------------------- |
+| Rigol | DSA1020 | Spectrum analyzer 2GHz    |                                    | https://github.com/Quantum-Optics-LKB/ScopeInterface |                       |
+| Rigol | DSA705  | Spectrum analyzer 500 MHz |                                    | https://github.com/Quantum-Optics-LKB/ScopeInterface |                       |
 
 ## Function/Arbitrary waveform generator
 
 
-| Brand     | Model         | Description                           | Link to the documentation |
-| ----------- | --------------- | --------------------------------------- | --------------------------- |
-| Rigol     | DG4202/DG4102 | 2 channels Arbitrary Waveform Genator | https://github.com/Quantum-Optics-LKB/ScopeInterface |
-| Tektronix | AFG 3022B     | 2 channels AFG                        |                           |
-|           |               |                                       |                           |
+| Brand     | Model         | Description                           | Link to the official documentation | Link to group made implementation                    | Link to group example |
+| ----------- | --------------- | --------------------------------------- | ------------------------------------ | ------------------------------------------------------ | ----------------------- |
+| Rigol     | DG4202/DG4102 | 2 channels Arbitrary Waveform Genator |                                    | https://github.com/Quantum-Optics-LKB/ScopeInterface |                       |
+| Tektronix | AFG 3022B     | 2 channels AFG                        |                                    |                                                      |                       |
+|           |               |                                       |                                    |                                                      |                       |
 
 ## Power supply
 
@@ -51,13 +50,13 @@ description: 'A list of the instruments avaible and their documentations'
 ## Cameras
 
 
-| Brand          | Model                 | Description | Link to the documentation |
-| ---------------- | ----------------------- | ------------- | --------------------------- |
-| Basler         | aca2040 - 90um NIR    |             |  https://github.com/basler/pypylon |
-| FLIR/PointGrey | GS3-U3-41C6NIR-C      |             |  https://github.com/elerac/EasyPySpin |
-| Allied vision  | Alvium 18000 U - 507m |             |                           |
-| PCO            | Panda                 |             |                           |
-|                |                       |             |                           |
+| Brand          | Model                 | Description | Link to the official documentation                                                                                                                                                                                                                                                                                                                                                                          | Link to group made implementation | Link to group example |
+| :--------------- | ----------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------- |
+| Basler         | aca2040 - 90um NIR    |             | [PyViewer Gui Download page (for Windows and linux)](https://www.baslerweb.com/en/downloads/software-downloads/)<br />[Python SDK (Windows and linux)](https://github.com/basler/pypylon)<br />[PyViewer GUI installation guide for linux](https://www.forecr.io/blogs/connectivity/pylon-installation-for-basler-camera) (be careful, the *setup-usb.sh* file is located at */opt/pylon/share/pylon*)<br/> |                                   |                       |
+| FLIR/PointGrey | GS3-U3-41C6NIR-C      |             | https://github.com/elerac/EasyPySpin                                                                                                                                                                                                                                                                                                                                                                        |                                   |                       |
+| Allied vision  | Alvium 18000 U - 507m |             |                                                                                                                                                                                                                                                                                                                                                                                                             |                                   |                       |
+| PCO            | Panda                 |             |                                                                                                                                                                                                                                                                                                                                                                                                             |                                   |                       |
+|                |                       |             |                                                                                                                                                                                                                                                                                                                                                                                                             |                                   |                       |
 
 ## SLMs
 
