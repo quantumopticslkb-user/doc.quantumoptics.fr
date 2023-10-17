@@ -118,8 +118,8 @@ The lasers are connected via an Ethernet cable to the computer network. They are
 - IP: 192.168.1.108 / Name: Kapaz  
 Each laser is essentially a linux computer that you communicate to through tcp. \
 To open a connection to the laser, you need to connect to it using the PuTTy client, usually on Maxwell, but this can be done on any computer of the Rb lab.\
-We usually use [MTpuTTy](https://ttyplus.com/multi-tabbed-putty/) as a convenient PuTTy utility. Once installed, you have to add the server 
-you want to talk to. Besides the IP you have to specify the port and the protocol (Telnet).
+We usually use [MTpuTTy](https://ttyplus.com/multi-tabbed-putty/) as a convenient PuTTy utility. Once installed, you have to add the server (laser)
+you want to talk to. Besides the IP, you have to specify the port and the protocol (Telnet). \
 Power control is possible by setting the power of the Erbium Doped Fibre Amplifier (EDFA) to a value between 0 and 3. 
 
 
