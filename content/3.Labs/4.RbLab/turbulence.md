@@ -1,7 +1,7 @@
 ---
-title: Turbulence
+title: Turbulence Exp
 description: 'All you need to know about the manip 1'
-position: 2
+position: 41
 category: Rubidium Lab
 ---
 

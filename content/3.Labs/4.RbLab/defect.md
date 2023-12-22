@@ -1,7 +1,7 @@
 ---
-title: Defect
+title: Defect Exp
 description: 'Experiment description on the defect'
-position: 2
+position: 42
 category: Rubidium Lab
 ---
 

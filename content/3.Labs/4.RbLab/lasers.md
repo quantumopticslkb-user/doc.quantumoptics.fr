@@ -1,6 +1,9 @@
 ---
 title: Lasers
 description: 'A list of the lasers avaible and their usage'
+position: 20
+category: Rubidium Lab
+
 ---
 # Rubdium lasers
 

@@ -1,6 +1,9 @@
 ---
 title: Rb lines
 description: 'A list of the D1 and D2 lines'
+position: 30
+category: Rubidium Lab
+
 ---
 
 # Rb transitions
