@@ -1,3 +1,7 @@
+---
+title: Lasers
+description: 'A list of the lasers avaible and their usage'
+---
 # Rubdium lasers
 
 ## Naming convention

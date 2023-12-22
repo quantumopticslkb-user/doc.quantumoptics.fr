@@ -1,3 +1,8 @@
+---
+title: Rb lines
+description: 'A list of the D1 and D2 lines'
+---
+
 # Rb transitions
 
 ## D2 - 780nm
