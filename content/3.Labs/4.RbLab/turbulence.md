@@ -1,5 +1,5 @@
 ---
-title: The table 1
+title: Turbulence
 description: 'All you need to know about the manip 1'
 position: 2
 category: Rubidium Lab
